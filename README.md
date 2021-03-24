@@ -1,5 +1,6 @@
 ## Oii, eu sou a Myrlla! <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
-<p>Sou estudante de Engenharia da Computação no IFPB - Campina Grande :computer: </p>
+<p>I am passionate about solving problems using programming. <img align="center" alt="myrlla-totoro" height="50" width="70" src="https://media.tenor.com/images/cfe230b7263213d350f6fd452e56df11/tenor.gif"> </p>
+<p>I'm studying computer engineering at IFPB - Campina Grande :computer: </p>
 <a href="https://github.com/Myrlla">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Myrlla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Myrlla&layout=compact&langs_count=8&theme=dracula">
@@ -21,4 +22,6 @@
   <a href="https://instagram.com/myrllalp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: myrllajucas20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img align="center" alt="myrlla-totoro" height="60" width="80" src="https://media.tenor.com/images/a6f1f019f7586cce3537af0216078bc2/tenor.gif">
 
