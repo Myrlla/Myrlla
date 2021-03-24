@@ -1,5 +1,5 @@
 ## Oii, eu sou a Myrlla! <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
-<p>I am passionate about solving problems using programming. <img align="center" alt="myrlla-totoro" height="50" width="70" src="https://media.tenor.com/images/cfe230b7263213d350f6fd452e56df11/tenor.gif"> <br>
+<p>I am passionate about solving problems using programming. <img align="center" alt="myrlla-totoro" height="35" width="30" src="https://media.tenor.com/images/cfe230b7263213d350f6fd452e56df11/tenor.gif"> <br>
 I'm studying computer engineering at IFPB - Campina Grande :computer:
 <a href="https://github.com/Myrlla">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Myrlla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
