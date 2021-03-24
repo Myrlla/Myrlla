@@ -1,4 +1,4 @@
-## Oii, eu sou a Myrlla! :smiling_face_with_three_hearts:	 <img align="center" alt="myrlla-yoda" height="60" width="80" src="https://camo.githubusercontent.com/3ef2dba4b0a2690582f58daafc66626c7b7c60b5ae6a28cf376f3daa7391dbc1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f35393231613264343863356264353830323365343433326662623835643838632f74656e6f722e676966">
+## Oii, eu sou a Myrlla! <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://media.tenor.com/images/5921a2d48c5bd58023e4432fbb85d88c/tenor.gif">
 <p>Sou estudante de Engenharia da Computação no IFPB - Campina Grande :computer: </p>
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Myrlla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Myrlla&layout=compact&langs_count=8&theme=dracula">
@@ -16,7 +16,7 @@
   <br>
   
   <div>
-  <p>Contato :iphone: </p>
+  <h3>Contato :iphone: </h3
    <a href="https://instagram.com/myrllalp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto: myrllajucas20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
