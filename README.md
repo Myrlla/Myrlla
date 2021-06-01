@@ -25,7 +25,7 @@ I'm studying computer engineering at IFPB - Campina Grande :computer:
    
 
   </div>
-![Snake animation](https://github.com/myrlla/myrlla/blob/output/github-contribution-grid-snake.svg)
+
 <img align="center" alt="myrlla-totoro" height="60" width="80" src="https://media.tenor.com/images/a6f1f019f7586cce3537af0216078bc2/tenor.gif">
     
 
