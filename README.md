@@ -22,8 +22,10 @@ I'm studying computer engineering at IFPB - Campina Grande :computer:
     <a href="https://instagram.com/myrllalp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto: myrllajucas20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
+    ![Snake animation](https://github.com/myrlla/myrlla/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+
 
 <img align="center" alt="myrlla-totoro" height="60" width="80" src="https://media.tenor.com/images/a6f1f019f7586cce3537af0216078bc2/tenor.gif">
     
